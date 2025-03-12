@@ -9,8 +9,10 @@ I’ve got a toolkit of go-to technologies that I use to build robust, modern we
 - **Tailwind CSS**: Styling made simple. Tailwind’s utility-first approach lets me whip up responsive, pixel-perfect designs without the CSS clutter—efficiency at its finest.
 - **TSX (TypeScript + JSX)**: Type safety meets React goodness. I lean on TypeScript to catch errors early, making my code cleaner and more reliable.
 - **Django**: My backend weapon of choice. Django’s secure, scalable framework—complete with auth, ORM, and admin tools—speeds up development while keeping things solid.
+- **PostgreSQL**: A powerhouse database I adore. Its reliability, advanced features (like JSON support), and scalability make it perfect for handling complex data with ease.
 - **Docker**: Containers are my deployment BFF. Docker ensures consistency across environments, making remote workflows seamless and stress-free.
 - **Kubernetes (K8s)**: For projects that demand scale and resilience, K8s handles the heavy lifting—keeping apps humming no matter the load.
+- **GitHub Actions**: Automation at its best. I use it to streamline CI/CD pipelines, run tests, and deploy with confidence—saving time and keeping quality high.
 
 #### What I’m Up To
 I spend my days (and sometimes nights) working remotely on client projects—turning ideas into polished, production-ready apps. When I’m not building for clients, I’m tinkering on my own venture: **[SaaS Web application for service-based businesses](https://vivasaas.netlify.app/)**. It’s a passion project close to my heart—take a peek and let me know what you think!
