@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hey, I’m Dennis 👋
 
-<!--
-**dennismbugua/dennismbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a fullstack software engineer passionate about building web applications that solve problems and create great user experiences. From frontend flair to backend horsepower, I love crafting end-to-end solutions remotely—giving me the flexibility to collaborate with clients and teams worldwide. Clean code, smart design, and impactful results are my driving forces.
 
-Here are some ideas to get you started:
+#### My Favorite Technologies
+I’ve got a toolkit of go-to technologies that I use to build robust, modern web apps. Here’s what I love working with and why they rock:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **NextJS & ReactJS**: For fast, dynamic frontends, NextJS’s server-side rendering and static generation deliver speed and SEO magic. React’s component-based structure keeps things modular and fun to build.
+- **Tailwind CSS**: Styling made simple. Tailwind’s utility-first approach lets me whip up responsive, pixel-perfect designs without the CSS clutter—efficiency at its finest.
+- **TSX (TypeScript + JSX)**: Type safety meets React goodness. I lean on TypeScript to catch errors early, making my code cleaner and more reliable.
+- **Django**: My backend weapon of choice. Django’s secure, scalable framework—complete with auth, ORM, and admin tools—speeds up development while keeping things solid.
+- **Docker**: Containers are my deployment BFF. Docker ensures consistency across environments, making remote workflows seamless and stress-free.
+- **Kubernetes (K8s)**: For projects that demand scale and resilience, K8s handles the heavy lifting—keeping apps humming no matter the load.
+
+#### What I’m Up To
+I spend my days (and sometimes nights) working remotely on client projects—turning ideas into polished, production-ready apps. When I’m not building for clients, I’m tinkering on my own venture: **[SaaS Web application for service-based businesses](https://vivasaas.netlify.app/)**. It’s a passion project close to my heart—take a peek and let me know what you think!
+
+#### Let’s Team Up
+Need a fullstack engineer for your next project? I’d love to collaborate remotely and bring your vision to life. **[Schedule a call with me](https://dennismbugua.co.ke/me#contact-section)**—let’s chat about what we can build together with my favorite tech stack.
+
+#### Stay Connected
+I share tips, updates, and behind-the-scenes looks at my work in my weekly newsletter. If you’re into web dev or just curious about what I’m up to, **[sign up here](https://dmbugua.substack.com/)**—I’d be thrilled to have you join the journey.
+
+#### Fun Fact
+Nothing beats the thrill of a smooth deployment or cracking a tough bug—remote work just makes it all the sweeter with a coffee shop vibe from anywhere.
+
+---
+
+Thanks for swinging by! Dive into my repos, star what catches your eye, or reach out via **[LinkedIn](https://www.linkedin.com/in/dennismbugua/)**. Excited to connect and create something awesome with you!
