@@ -1,6 +1,6 @@
 ### Hey, I’m Dennis 👋
 
-Welcome to my GitHub! I’m a fullstack software engineer passionate about building web applications that solve problems and create great user experiences. From frontend flair to backend horsepower, I love crafting end-to-end solutions remotely—giving me the flexibility to collaborate with clients and teams worldwide. Clean code, smart design, and impactful results are my driving forces.
+I’m a fullstack software engineer passionate about building web applications that solve problems and create great user experiences. From frontend flair to backend horsepower, I love crafting end-to-end solutions remotely—giving me the flexibility to collaborate with clients and teams worldwide. Clean code, smart design, and impactful results are my driving forces.
 
 #### My Favorite Technologies
 I’ve got a toolkit of go-to technologies that I use to build robust, modern web apps. Here’s what I love working with and why they rock:
